@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658702760902",
+    "firebase_url": "https://xmlandfirebaseandloginto.firebaseio.com",
+    "project_id": "xmlandfirebaseandloginto",
+    "storage_bucket": "xmlandfirebaseandloginto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658702760902:android:4aca65edb789de46",
+        "android_client_info": {
+          "package_name": "alex.ness.edu.xmlandfirebaseandloginto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658702760902-eokguifhmlapsdk0pj1q0p282uusteqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alex.ness.edu.xmlandfirebaseandloginto",
+            "certificate_hash": "9011ebd8fc3b2b75d237693ba37f8d6116bd248d"
+          }
+        },
+        {
+          "client_id": "658702760902-t3hijsv67m9of0o0bda844ltap6dadv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUC-ZndAU3MD3t2KV2lkdNfPTnzzUeM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658702760902-t3hijsv67m9of0o0bda844ltap6dadv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
